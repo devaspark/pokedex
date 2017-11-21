@@ -19,6 +19,7 @@
 		B34C6B921FC1EA1B00FA52FB /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = B34C6B911FC1EA1B00FA52FB /* pokemon.csv */; };
 		B34C6B951FC1EAF800FA52FB /* Pokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = B34C6B941FC1EAF800FA52FB /* Pokemon.swift */; };
 		B34C6B981FC2012500FA52FB /* PokeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B34C6B971FC2012500FA52FB /* PokeCell.swift */; };
+		B398160E1FC3F48E00A774E7 /* PokemonDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B398160D1FC3F48E00A774E7 /* PokemonDetailVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		B34C6B911FC1EA1B00FA52FB /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 		B34C6B941FC1EAF800FA52FB /* Pokemon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
 		B34C6B971FC2012500FA52FB /* PokeCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokeCell.swift; sourceTree = "<group>"; };
+		B398160D1FC3F48E00A774E7 /* PokemonDetailVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokemonDetailVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				B34C6B811FC1E6D000FA52FB /* ViewController.swift */,
+				B398160D1FC3F48E00A774E7 /* PokemonDetailVC.swift */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -206,6 +209,7 @@
 				B34C6B821FC1E6D000FA52FB /* ViewController.swift in Sources */,
 				B34C6B801FC1E6D000FA52FB /* AppDelegate.swift in Sources */,
 				B34C6B981FC2012500FA52FB /* PokeCell.swift in Sources */,
+				B398160E1FC3F48E00A774E7 /* PokemonDetailVC.swift in Sources */,
 				B34C6B951FC1EAF800FA52FB /* Pokemon.swift in Sources */,
 				B335CC521FC2780E001BBA45 /* csv.swift in Sources */,
 			);
